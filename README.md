@@ -60,12 +60,11 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
 
 ## Contato
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/diogobacildo/)
-[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](dbacildodasilva@gmail.com)
-- **Email:** dbacildodasilva@gmail.com
+[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](mailto:dbacildodasilva@gmail.com)
 
 Sempre em busca de novas oportunidades e desafios!
 
-## Relaxing
+## Enquanto trabalho
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=liagbvbs&unique={true|1|on|yes}" alt="Spotify recently played"  />
 </div>
