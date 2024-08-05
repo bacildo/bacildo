@@ -1,7 +1,6 @@
 # Diogo Bacildo da Silva
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diogobacildo-blue)](https://www.linkedin.com/in/diogobacildo/)
-[![GitHub](https://img.shields.io/badge/GitHub-bacildo-lightgrey)](https://github.com/bacildo)
 
 ## Sobre Mim
 
