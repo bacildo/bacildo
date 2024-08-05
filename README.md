@@ -1,6 +1,6 @@
 # Diogo Bacildo da Silva
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-diogobacildo-blue)](https://www.linkedin.com/in/diogobacildo/)
+[! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/diogobacildo/)
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1aDRpcTBnYnF6ajhpZzYxZ25xOGk0eHpzMjVsNGxnOWc2OHYzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
