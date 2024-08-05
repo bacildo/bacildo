@@ -1,7 +1,5 @@
 # Diogo Bacildo da Silva
 
-# Linkedin
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/diogobacildo/)
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1aDRpcTBnYnF6ajhpZzYxZ25xOGk0eHpzMjVsNGxnOWc2OHYzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
@@ -61,6 +59,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Contato
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />](https://www.linkedin.com/in/diogobacildo/)
 
 - **Email:** dbacildodasilva@gmail.com
 
