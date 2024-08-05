@@ -30,7 +30,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27714%2Fnestjs&psig=AOvVaw2FP86lomPx4z0gXDS58BAv&ust=1722970872037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCE4-rE3ocDFQAAAAAdAAAAABAE)" height="40" alt="nestjs logo"  />
+  <img src="https://iconduck.com/icons/27714/nestjs" height="40" alt="nestjs logo"  />
 </div>
 
 #### Bancos de Dados
@@ -49,7 +49,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Faws&psig=AOvVaw3NmcybpLjdDMM4amM2Pvt-&ust=1722970909755000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDSpf3E3ocDFQAAAAAdAAAAABAE)" height="40" alt="amazonwebservices logo"  />
+  <img src="https://iconscout.com/free-icon/aws-1869025" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
