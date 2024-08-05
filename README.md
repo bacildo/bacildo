@@ -30,7 +30,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="[https://iconduck.com/icons/27714/nestjs](https://iconduck.com/icons/27714/nestjs?shared)" height="40" alt="nestjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
 </div>
 
 #### Bancos de Dados
