@@ -7,8 +7,7 @@
 
 ## Sobre Mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida experiência em desenvolvimento web, supervisão de infraestrutura de TI e suporte técnico. Ao longo da minha carreira, desenvolvi habilidades em várias tecnologias, que incluem:
-
+Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida experiência em desenvolvimento web, supervisão de infraestrutura de TI e suporte técnico. Aqui você encontrará o que chamo de meu rascunho pessoal, onde me permito experimentar novas coisas e testá-las. Projetos mais robustos estão no meu modo privado, até para evitar que de alguma forma algo que me dediquei tanto se torne produto sem meu conhecimento. 
 ### Tecnologias
 
 #### Linguagens e Frameworks
