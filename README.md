@@ -15,7 +15,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e tenho uma sólida exper
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bacildo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Enquanto trabalho
+## while I work
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=liagbvbs&unique={true|1|on|yes}" alt="Spotify recently played"  />
 </div>
